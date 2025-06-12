@@ -1,0 +1,16 @@
+/* Write your code here: */
+h1,h2{
+    color: blueviolet;
+}
+.box>p{
+    color: red;
+}
+ul>li{
+    color: blue;
+}
+ul li.done{
+    color: green;
+}
+ul p{
+    font-size: 0.5rem;
+}
