@@ -1,0 +1,5 @@
+function add_the_numbers(a,b)
+{
+    return a+b;
+}
+console.log(add_the_numbers(16,10));
